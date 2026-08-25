@@ -1,0 +1,25 @@
+body
+{
+    background-color: #322e2e;
+    font-family: "Inter";
+    font-size: 16px;
+    color: #ddc0c0;
+}
+
+/* Nieodwiedzony linkacz */
+a:link
+{
+    color: cornflowerblue;
+}
+
+/* Odwiedzony linkacz */
+a:visited
+{
+    color: #3f67b5;
+}
+
+/* Link PO najechaniu myszką */
+a:hover
+{
+    color: #00ff24;
+}
