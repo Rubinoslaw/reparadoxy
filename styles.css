@@ -1,9 +1,19 @@
 body
 {
-    background-color: #322e2e;
-    font-family: "Inter";
+    font-family: "Fira Code", sans-serif;
     font-size: 16px;
-    color: #ddc0c0;
+}
+
+body.dark_mode
+{
+    background-color: #322e2e;
+    color: azure;
+}
+
+body.light_mode
+{
+    background-color: #ffdc;
+    color: #efc7c7;
 }
 
 /* Nieodwiedzony linkacz */
